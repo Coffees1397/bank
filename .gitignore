@@ -3,6 +3,8 @@
 
 out/
 
+.idea/
+
 *.class
 
 # Ignore Gradle GUI config
